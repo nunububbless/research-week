@@ -8,9 +8,6 @@ Reinforcement learning: models predict by getting rewards/ penalties based on ac
 Generative AI: models that create content from user input: unique images, music, jokes, summarize articles. Gen AI can take different types of inputs to generate different types of outputs. Some examples are Text-Text, Text-Image, Text-Code, Text-Speech
 Gen AI imitate oters by observing repeated behaviors in different categories. 
 
-Supervised ML
-5 concepts: Data, Model, Training, Evaluation, Inference
-Data = words, numbers in tables or pixels and waveforms. Dataset = cats, housing prices, weather info etc. Label = what all the features are measuring. Measure = what data you feed in to the ML model and its category. An ideal dataset has a large size and a lot of diversity to prevent the model from having biases. Evaluate a ML model by comparing its predictions to the actual values
 
 Linear Regression: stat technique to find relationships between variable (feature and label for ML)
 ML model takes the dataset, plots it , and finds a best fit line to go through the curve. In the training of the set, the model calculates the weight and bias that produce the best model. The general formula is y' = b + w1x1. b is bias and w1x1 is the feature. for each additional feature you add a wx expression to the formula. x is the feature and w is the weight of the feature. b and w and caluculated from the training of the model.
